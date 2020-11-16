@@ -1,6 +1,6 @@
 click==6.2
 enum34==1.1.2
-Jinja2==2.8
+Jinja2==2.10.1
 PyYAML==3.11
 wheel==0.26.0
 git+https://github.com/ilg/lamson-bsd.git#egg=lamson
